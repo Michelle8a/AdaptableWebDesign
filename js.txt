@@ -1,0 +1,15 @@
+let estado = promedio >= 7 ? "Aprobado" : "Reprobado";
+                            verdadero       falso
+
+
+es lo mismo que
+let estado;
+
+if (promedio >= 7) {
+    estado = "Aprobado";
+} else {
+    estado = "Reprobado";
+}
+
+----------------------
+
